@@ -2,7 +2,7 @@ package com.wakaleo.gameoflife.domain;
 
 /**
  * Dit is mooie code!
- * Nog mooier!
+ * Nog mooier!!
  * 
  * @author sop
  */
