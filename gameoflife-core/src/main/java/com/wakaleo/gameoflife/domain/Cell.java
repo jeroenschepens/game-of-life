@@ -12,7 +12,7 @@ public enum Cell {
     private String symbol;
 
     private Cell(final String initialSymbol) {
-        System.out.println("oke");
+        System.out.println("oke!");
         this.symbol = initialSymbol;
     }
 
