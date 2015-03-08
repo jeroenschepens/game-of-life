@@ -2,7 +2,7 @@ package com.wakaleo.gameoflife.domain;
 
 /**
  * Dit is mooie code!
- * Nog mooier!!
+ * Nog mooier!!!
  * 
  * @author sop
  */
@@ -12,6 +12,7 @@ public enum Cell {
     private String symbol;
 
     private Cell(final String initialSymbol) {
+        System.out.println("oke");
         this.symbol = initialSymbol;
     }
 
